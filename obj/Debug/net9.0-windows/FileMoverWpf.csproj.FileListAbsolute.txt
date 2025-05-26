@@ -21,3 +21,4 @@ D:\Projects\FileMoverWpf\obj\Debug\net9.0-windows\refint\FileMoverWpf.dll
 D:\Projects\FileMoverWpf\obj\Debug\net9.0-windows\FileMoverWpf.pdb
 D:\Projects\FileMoverWpf\obj\Debug\net9.0-windows\FileMoverWpf.genruntimeconfig.cache
 D:\Projects\FileMoverWpf\obj\Debug\net9.0-windows\ref\FileMoverWpf.dll
+D:\Projects\FileMoverWpf\obj\Debug\net9.0-windows\FileMoverWpf.sourcelink.json

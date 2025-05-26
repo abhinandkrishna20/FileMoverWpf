@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FileMoverWpf")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fec80e07d0570ad95e729007155fb0eb76fd3638")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b7706812e6631549cac82ed87b7dd2434bf92521")]
 [assembly: System.Reflection.AssemblyProductAttribute("FileMoverWpf")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FileMoverWpf")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
