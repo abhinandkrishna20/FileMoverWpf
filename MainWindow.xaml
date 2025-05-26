@@ -1,0 +1,25 @@
+﻿<Window x:Class="FileMoverWpf.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="File Mover" Height="350" Width="600">
+    <Grid Margin="10">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <StackPanel Orientation="Horizontal" Margin="0,0,0,10">
+            <TextBlock Text="Source Folder:" Width="100" VerticalAlignment="Center"/>
+            <TextBox x:Name="SourceFolderBox" Width="350"/>
+            <Button Content="Browse" Click="BrowseSource_Click" Margin="10,0,0,0"/>
+        </StackPanel>
+        <StackPanel Orientation="Horizontal" Grid.Row="1" Margin="0,0,0,10">
+            <TextBlock Text="Destination:" Width="100" VerticalAlignment="Center"/>
+            <TextBox x:Name="DestinationFolderBox" Width="350"/>
+            <Button Content="Browse" Click="BrowseDestination_Click" Margin="10,0,0,0"/>
+        </StackPanel>
+        <Button Content="Move Files" Grid.Row="2" Width="100" Click="MoveFiles_Click" HorizontalAlignment="Left"/>
+        <TextBox Grid.Row="3" x:Name="LogBox" Margin="0,10,0,0" AcceptsReturn="True" VerticalScrollBarVisibility="Auto" TextWrapping="Wrap"/>
+    </Grid>
+</Window>
