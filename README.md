@@ -88,6 +88,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 
-Created by [Your Name](https://github.com/yourusername). Feel free to open issues or submit pull requests!
+Created by [Abhinand Krishna]([https://github.com/yourusername](https://github.com/abhinandkrishna20)). Feel free to open issues or submit pull requests!
 
 
