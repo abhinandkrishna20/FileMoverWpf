@@ -1,15 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "xAWkBfb5zzY=",
+  "dgSpecHash": "0sLa0cCwFJg=",
   "success": true,
   "projectFilePath": "D:\\Projects\\FileMoverWpf\\FileMoverWpf.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\USER1\\.nuget\\packages\\microsoft.net.illink.tasks\\9.0.5\\microsoft.net.illink.tasks.9.0.5.nupkg.sha512",
     "C:\\Users\\USER1\\.nuget\\packages\\microsoft.windowsapicodepack.core\\1.1.0\\microsoft.windowsapicodepack.core.1.1.0.nupkg.sha512",
-    "C:\\Users\\USER1\\.nuget\\packages\\microsoft.windowsapicodepack.shell\\1.1.0\\microsoft.windowsapicodepack.shell.1.1.0.nupkg.sha512",
-    "C:\\Users\\USER1\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\9.0.5\\microsoft.netcore.app.runtime.win-x64.9.0.5.nupkg.sha512",
-    "C:\\Users\\USER1\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\9.0.5\\microsoft.windowsdesktop.app.runtime.win-x64.9.0.5.nupkg.sha512",
-    "C:\\Users\\USER1\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\9.0.5\\microsoft.aspnetcore.app.runtime.win-x64.9.0.5.nupkg.sha512"
+    "C:\\Users\\USER1\\.nuget\\packages\\microsoft.windowsapicodepack.shell\\1.1.0\\microsoft.windowsapicodepack.shell.1.1.0.nupkg.sha512"
   ],
   "logs": [
     {
